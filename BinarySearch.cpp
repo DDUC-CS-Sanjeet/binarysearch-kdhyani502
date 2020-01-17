@@ -26,7 +26,7 @@ bool binarySearchReacursive(int* array, int startIndex, int lastIndex, int eleme
 		return false;
 	}
 	
-  //return true;
+ 
 }
 
 bool binarySearchIterative(int* array, int startIndex, int lastIndex, int element)
@@ -53,7 +53,7 @@ bool binarySearchIterative(int* array, int startIndex, int lastIndex, int elemen
 	{
 		return false;
 	}
-  //return true;
+  
 }
 
 int main()
